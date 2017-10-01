@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Univers55'; /*a name to be used later*/
-    src: url('../fonts/univers55.ttf'); /*URL to font*/
+    src: url('{{ site.baseurl }}/fonts/univers55.ttf'); /*URL to font*/
 }
 
 @font-face {
     font-family: 'neetasface'; /*a name to be used later*/
-    src: url('../fonts/neetasface.ttf'); /*URL to font*/
+    src: url('{{ site.baseurl }}/fonts/neetasface.ttf'); /*URL to font*/
 }
 
 /* Reset some basic elements */
